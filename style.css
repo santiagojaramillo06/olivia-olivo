@@ -1,0 +1,23 @@
+.header{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.about-me{
+    font-size: 20px;
+    opacity: 0,5;
+}
+
+.title{
+    font-weight: bold;
+}
+
+h1{
+    color: azure;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image:url("https://images.pexels.com/photos/733857/pexels-photo-733857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+
